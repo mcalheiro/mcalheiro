@@ -6,8 +6,6 @@ I am an electrical engineer who has transitioned into software development, with
 - 🌱 I’m learning frontend development (Angular)
 - 📌 I’m living in Porto, Portugal
 
-Check my CV [here](./cv-mauricio-calheiro.pdf).
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcalheiro&layout=compact)
 
 <!--
