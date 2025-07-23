@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-I am an electrical engineer who has transitioned into software development, with three years of experience in software testing and agile development.
+I am an electrical engineer who has transitioned into software development, with 4 years of experience in software testing and agile development.
 
-- 🔭 I’m working on backend development and software testing (Python)
-- 🌱 I’m learning frontend development (Angular)
-- 📌 I’m living in Porto, Portugal
+🤖 I like to automate tests
+📌 I’m living in Porto, Portugal
+
+Tech that I use: Selenium, Cypress, Python, Java, JavaScript, C#. And whatever is required to support software testing in agile environments.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcalheiro&layout=compact)
 
